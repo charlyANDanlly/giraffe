@@ -17,7 +17,7 @@
               <v-col cols="12" md="10" lg="8" xl="7">
                 <h2 class="text-h3 py-3" style="line-height: 1.2">
                   
-                    ¿Cual es su destino?
+                    ¿Cual es su destinooo?
                 </h2>
               </v-col>
               <v-col class="d-flex align-center">
@@ -25,7 +25,7 @@
                   <v-icon large>mdi-feather</v-icon>
                 </v-avatar>
 
-                <div class="text-h6 pl-2">Terminal de autobuses de Maravatio</div>
+                <div class="text-h6 pl-2">Terminal de autobuses de git Maravatio</div>
               </v-col>
             </v-row>
           </v-card-text>
